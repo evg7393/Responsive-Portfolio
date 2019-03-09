@@ -2,8 +2,8 @@
 body {
 	width: 90%;
 	margin: 0 auto;
-	background-image: url("https://cdn.pixabay.com/photo/2014/09/24/16/28/bricks-459299_960_720.jpg");
-    background-size: 50%;
+	background-image: url(/images/brick.jpg);
+    background-size: 75%;
 	font-family: 'Times New Roman', Times, serif;
 }
 
