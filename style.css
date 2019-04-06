@@ -2,7 +2,7 @@
 body {
 	width: 90%;
 	margin: 0 auto;
-	background-image: url(/images/brick.jpg);
+	background-image: url(images/brick.jpg);
     background-size: 75%;
 	font-family: 'Times New Roman', Times, serif;
 }
@@ -11,14 +11,19 @@ body {
 
 
 .jumbotron {
-	background-image: url("images/cement.jpg");
+	/*background-image: url("images/cement.jpg");*/
+
+
 
 }
 
+.jumbotronC {
+	background-color: white
+}
 
 	#header {
 	text-align: center;
-	background-image: url("images/cement.jpg");
+	ackground-image: url("images/cement.jpg");
 	
 	}
 
@@ -36,13 +41,13 @@ body {
 
 #nav, #feature, #footer {
 	margin: 1%;
-	background-image: url("images/cement.jpg");
+	ackground-image: url("images/cement.jpg");
 }
 .column1, .column2, .column3 {
 	width: 31.3%;
 	float: left;
 	margin: 1%;
-	background-image: url("images/cement.jpg");
+	ackground-image: url("images/cement.jpg");
 }
 .column3 {
 	margin-right: 0%;
@@ -82,7 +87,7 @@ li {
 	width: 20%;
 	float: left;
 	margin: 1%;
-	background-image: url("images/cement.jpg");
+	ackground-image: url("images/cement.jpg");
 }
 
 	
